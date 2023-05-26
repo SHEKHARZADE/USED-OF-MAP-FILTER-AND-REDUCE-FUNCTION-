@@ -1,0 +1,2 @@
+# USED-OF-MAP-FILTER-AND-REDUCE-FUNCTION-
+Code for functions
