@@ -19,7 +19,7 @@ print(list(filter(even,l)))
 
 
 
-#code for additiin if all nu numbers by using reduce()
+#code for additiin of all numbers by using reduce()
 from functools import reduce
 c=reduce(lambda x,y:x+y,l)
 print(c)
